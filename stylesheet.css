@@ -1,0 +1,183 @@
+			.left-section{
+				width: 200px;
+				height: 100%;
+        margin-left: 10px;
+				background-color:white;
+				position:fixed;		
+			}
+			
+			.main-section{
+        font-family: helvetica;
+				font-weight: 500;
+				color:black;
+        font-size: 60px;
+				margin-left:200px;
+				position:relative;
+				margin-top:-300px;
+				width: 500px;
+				height: 30%;
+			}
+			
+			.right-section{
+				position:relative;
+				margin-left: 700px;
+				width:200px;
+				background-color: white;
+				margin-top:-370px;
+			
+			}
+#box{
+  width:100px;
+  margin-top: 10px;
+  border-bottom: 2px solid #ff8080;
+}
+			
+			.image-section{
+				width: 791px;
+				height: 200px;
+				margin-left:200px;
+}
+			
+			#loreum{
+			
+				font-family: helvetica;
+				font-weight: 900;
+				font-size: 200%;
+				color:black;
+				padding-left: 10px;
+
+			}
+			
+			.table1{
+			
+				padding:10px;
+				text-align:left;
+				font-family: helvetica;
+				color:grey;
+			
+			}
+			
+			#about{
+
+			  text-decoration: line-through;		         
+        text-decoration-color: #ff8080;
+        padding: 10px;
+			}
+      #cart{
+        
+        padding: 10px;
+        text-align:center;
+        width: 100px;
+        height: 10px;
+        border-radius: 10px;
+        background-color:#ff8080;
+}
+  #mexican-taco{
+    width: 150px;
+    height: 200px;
+    border-radius:10px;
+    background-color:  #f2f2f2;
+}
+#farmhouse-pizza{
+    margin-left:160px;
+    margin-top: -164px;
+    width: 150px;
+    height: 200px;
+    border-radius:10px;
+    background-color: #f2f2f2;
+}
+#chicken-burger{
+    margin-left:160px;
+    margin-top: -164px;
+    width: 150px;
+    height: 200px;
+    border-radius:10px;
+    background-color: #f2f2f2;
+}
+#loaded-nachos{
+    margin-left:160px;
+    margin-top: -164px;
+    width: 150px;
+    height: 200px;
+    border-radius:10px;
+    background-color: #f2f2f2;
+}
+#hakka-noodles{
+    margin-left:160px;
+    margin-top: -164px;
+    width: 150px;
+    height: 200px;
+    border-radius:10px;
+    background-color: #f2f2f2;
+}
+
+#taco{
+  width:100px;
+  height: 100px;
+  margin-left: 25px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+#taco-p{
+      font-family: helvetica;
+			font-weight: 700;
+      text-align:center;
+  
+}
+#pizza{
+  width:100px;
+  height: 100px;
+  margin-left: 25px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+#pizza-p{
+      font-family: helvetica;
+			font-weight: 700;
+      text-align:center;
+  
+}
+#chicken{
+  width:100px;
+  height: 100px;
+  margin-left: 25px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+#chicken-p{
+      font-family: helvetica;
+			font-weight: 700;
+      text-align:center;
+  
+}
+#nachos{
+  width:100px;
+  height: 100px;
+  margin-left: 25px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+#nachos-p{
+      font-family: helvetica;
+			font-weight: 700;
+      text-align:center;
+  
+}
+#noodles{
+  width:100px;
+  height: 100px;
+  margin-left: 25px;
+  margin-top: 10px;
+  border-radius: 100px;
+}
+
+#noodles-p{
+      font-family: helvetica;
+			font-weight: 700;
+      text-align:center;
+  
+}
